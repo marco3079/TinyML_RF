@@ -1,0 +1,13 @@
+{
+  "configurations": [
+    {
+      "name": "PlatformIO",
+      "compileCommands": "${workspaceFolder}/compile_commands.json",
+      "compilerPath": "C:/Users/tenen/.platformio/packages/toolchain-xtensa-esp32s3/bin/xtensa-esp32s3-elf-g++.exe",
+      "cStandard": "gnu17",
+      "cppStandard": "gnu++11",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}

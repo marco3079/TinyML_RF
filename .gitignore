@@ -1,0 +1,4 @@
+.pio/
+.training-env/
+include/secrets.h
+compile_commands.json
